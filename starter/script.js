@@ -115,7 +115,7 @@ function game() {
               )
 
               switch (riddleLocation) {
-                case 'library':
+                case 'Library':
                   let libraryLocation = confirm(
                     "Tom Riddle's diary has been moved. Please return to start"
                   )
